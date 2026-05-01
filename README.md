@@ -76,4 +76,4 @@ It demonstrates core OOP principles such as:
 * It focuses on design and OOP structure rather than advanced optimizations.
 * Data is not persisted (in-memory only).
 
-![Screenshot of the LibraryApp](/assets/images/LibraryApp.png)
+![Screenshot of the LibraryApp](LibraryApp.png)
