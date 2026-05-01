@@ -16,7 +16,7 @@ It demonstrates core OOP principles such as:
 * Custom exceptions
 * Interface implementation (Comparable)
   
-**System Structure**
+## System Structure
 
 **LibraryItem (Abstract Class)**
 * Represents a generic library item.
@@ -75,3 +75,5 @@ It demonstrates core OOP principles such as:
 * This project is intended for learning purposes.
 * It focuses on design and OOP structure rather than advanced optimizations.
 * Data is not persisted (in-memory only).
+
+![Screenshot of the LibraryApp](/assets/images/LibraryApp.png)
