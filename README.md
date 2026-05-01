@@ -16,7 +16,7 @@ It demonstrates core OOP principles such as:
 * Custom exceptions
 * Interface implementation (Comparable)
   
-## System Structure
+# System Structure
 
 ## LibraryItem (Abstract Class)
 Represents a generic library item.
